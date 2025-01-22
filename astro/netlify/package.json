@@ -10,8 +10,8 @@
     "astro": "node -r dotenv/config ./node_modules/.bin/astro"
   },
   "dependencies": {
-    "@astrojs/netlify": "^2.5.2",
-    "astro": "^2.9.7",
+    "@astrojs/netlify": "^3.0.0",
+    "astro": "^5.1.8",
     "dotenv": "^16.3.1"
   }
 }
