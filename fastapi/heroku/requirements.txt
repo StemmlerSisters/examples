@@ -8,7 +8,7 @@ fastapi==0.104.1
 Flask==2.2.2
 git-bars==1.7
 gunicorn==21.2.0
-h11==0.14.0
+h11==0.16.0
 httptools==0.6.1
 idna==3.4
 importlib-metadata==5.0.0
