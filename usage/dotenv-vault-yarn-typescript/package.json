@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "dotenv-vault": "^1.23.0",
+    "dotenv-vault": "^1.26.1",
     "typescript": "^5.0.4"
   }
 }
